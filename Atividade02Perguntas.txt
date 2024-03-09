@@ -1,0 +1,10 @@
+1) Java é uma linguagem de programação onde o analista cria divercidades desde programas complexos ate jogos que estão 
+no nosso dia dia muito ultilizado principalmente por empresas no intuito de sempre estar a frente no mercado em tecnologia
+e uma tecnologia muito segura que tem uma boa portabilidade com os dados e teveseu lançamento em1995 pela empresa sun microsystems.
+
+2) A programação java refere ao processo de escrever, compilar e executar codigos feito por essa desenvolvimento de aplicativos
+desktop,desenvolvimento web, desenvolvimento de aplicativos moveis, desenvolvimento de sistemas embarcados,entre outros.
+
+3)Uma linguagem de programação Java é uma linguagem de alto nível projetada para ser independente de plataforma e orientada a objetos.
+a linguagem Java é conhecida por sua portabilidade, o que significa que os programas escritos em Java podem ser executados em diferentes 
+tipos de dispositivos sem a necessidade de modificação do código-fonte.
